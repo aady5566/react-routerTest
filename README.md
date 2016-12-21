@@ -9,10 +9,8 @@ up our project.
 ## Clone the Tutorial
 
 ```
-git clone https://github.com/reactjs/react-router-tutorial
-cd react-router-tutorial
-cd lessons/01-setting-up
-npm install
+git clone
+cd react-routerTest
 npm start
 ```
 
@@ -29,5 +27,3 @@ Open up `modules/App.js` and change the text to something like "Hello
 <your name>". The browser automatically reloads with your new code.
 
 ---
-
-[Next: Rendering a Router](../02-rendering-a-route/)
